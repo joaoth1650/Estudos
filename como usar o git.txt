@@ -1,0 +1,30 @@
+opcional
+git status
+
+----------------
+
+git add "nome do arquivo"
+ou 
+git add .
+
+-------------
+
+git commit -m 'escrever o que vc fez'
+
+-------------------
+
+git push
+
+
+---------------------
+
+
+git pull
+
+
+----------------------
+
+git clone https://github......
+
+
+--------------------
